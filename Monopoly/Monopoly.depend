@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1574039647 source:/home/isaac/Escritorio/Monopoly/Lugares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"EstructurasDatos.h"
+
+1574039614 /home/isaac/Escritorio/Monopoly/EstructurasDatos.h
+	<stdio.h>
+	<stddef.h>
+	<stdlib.h>
+
+1574039635 source:/home/isaac/Escritorio/Monopoly/Monopoly.c
+	<stdio.h>
+	"EstructurasDatos.h"
+	<stdlib.h>
+	<time.h>
+
+1574039626 source:/home/isaac/Escritorio/Monopoly/TADCola.c
+	<stdio.h>
+	"EstructurasDatos.h"
+	<string.h>
+	<stdlib.h>
+
